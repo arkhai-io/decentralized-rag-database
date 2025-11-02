@@ -9,6 +9,8 @@
   ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 </div>
 
+> **Note:** This version has been deprecated and is only being updated for short-term purposes. We will be releasing v2 shortly.
+
 ---
 
 ## Overview
